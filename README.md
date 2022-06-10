@@ -37,11 +37,8 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 <h2>ℹ️ &nbsp;Github Info</h2>
 
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=blackstorm0514&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="blackstorm0514" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackstorm0514&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="blackstorm0514" align = "center"/></p>
-
- <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=blackstorm0514&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="blackstorm0514" /></p>
+<p align="center"><img height="300em" src="https://github-readme-stats.vercel.app/api?username=blackstorm0514&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="blackstorm0514" align = "center"/>
+</p>
 
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=blackstorm0514&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
