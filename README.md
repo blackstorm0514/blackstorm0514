@@ -17,7 +17,7 @@
 ## 🧑 About me:
 
 <p>
-I am working as a <b>Web</b> & <b>Mobile developer</b> for 7 years with <b>Blockchain</b> and have developed many projects according to clients' needs.<br>
+I am working as a <b>Blockchan Full Stack Engineer</b> for 6 years and have developed many projects according to clients' needs.<br>
 I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>self-starter</b>, which alongside my aptitude for learning, keeps me updated. <br>
 I am an <b>ambitious man</b> with rich experience.<br>
 Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
@@ -30,7 +30,7 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 <h2>🥇 Specialised in:</h2>
 <p>🔸 BlockChain - Web3, Dapp, NFT Marketplace
   <br>🔸 DAO, DEX, Ethereum, Solidity, Smart Contract
-<br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
+<br>🔸 FrontEnd - React.js, React-Native, Vue.js
 <br>🔸 BackEnd - Node, Express, Laravel
 <p>
 
