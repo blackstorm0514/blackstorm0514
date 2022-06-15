@@ -44,7 +44,4 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=blackstorm0514&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 <!-- </details>
 <details>    -->
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/blackstorm0514"><img src="https://github-profile-trophy.vercel.app/?username=blackstorm0514&margin-w=5&theme=radical" alt="blackstorm0514" /></a> </p>
-
 <br>
