@@ -1,18 +1,10 @@
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
-   <!-- I'm <a href="">Tony Robin</a>!  -->
 </h2>
 
 <h4 align='center'>
   Blockchain | FullStack Engineer
 </h4>
-
-<!-- <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    </a>
-     <a href="https://github.com/corasphinx">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/corasphinx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-    </p> -->
 
 ## 🧑 About me:
 
@@ -42,11 +34,10 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=blackstorm0514&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-<!-- </details>
-<details>    -->
 <br>
 
 <summary><b>Random Joke Generator</b></summary>
+
 ## 😂 Here is a random joke that'll make you laugh!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
