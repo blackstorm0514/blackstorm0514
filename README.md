@@ -48,8 +48,9 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 
 <summary><b>Random Joke Generator</b></summary>
 ## 😂 Here is a random joke that'll make you laugh!
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 <summary><b>Profile View Counter</b></summary>
-<img src="https://komarev.com/ghpvc/?username=Tanu-N-Prabhu" />
+<img src="https://komarev.com/ghpvc/?username=blackstorm0514" />
